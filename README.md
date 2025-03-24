@@ -36,22 +36,21 @@ NANOGPT/
 ```
 
 ## 📦 Installation & Setup
-### Prerequisites
-Ensure you have Python 3.8+ and PyTorch installed. If not, install PyTorch using:
-```sh
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
+1. **Prerequisites** - Ensure you have Python 3.8+ and PyTorch installed. If not, install PyTorch using:
+   ```sh
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   ```
 
-1. **Clone the repository**
+2. **Clone the repository**
    ```sh
    git clone https://github.com/Uni-Creator/NanoGPT.git
    cd NanoGPT
    ```
-2. **Install dependencies**
+3. **Install dependencies**
    ```sh
    pip install torch numpy matplotlib
    ```
-3. **Train the model (if needed)**
+4. **Train the model (if needed)**
    ```sh
    python trainer.py
    ```
@@ -101,5 +100,7 @@ Contributions are welcome! Feel free to open an **issue** or submit a **pull req
 
 ## 📄 License
 This project is licensed under the **MIT License**.
+
+
 
 
