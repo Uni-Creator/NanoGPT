@@ -35,7 +35,7 @@ NANOGPT/
 1. **Clone the repository**
    ```sh
    git clone https://github.com/Uni-Creator/NanoGPT.git
-   cd NANOGPT
+   cd NanoGPT
    ```
 2. **Install dependencies**
    ```sh
