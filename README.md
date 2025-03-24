@@ -56,18 +56,16 @@ NANOGPT/
    ```
 
 ## Usage
-### Train the Model
-To train the model from scratch, run:
-```sh
-python trainer.py
-```
+1. **Train the Model** - To train the model from scratch, run:
+   ```sh
+   python trainer.py
+   ```
 This will generate a `model.pth` file containing the trained weights.
 
-### Generate Text
-To generate text using the trained model, run:
-```sh
-python main.py
-```
+2. **Generate Text** - To generate text using the trained model, run:
+   ```sh
+   python main.py
+   ```
 You will be prompted to enter a starting text, and the model will generate Shakespearean-style text based on your input.
 
 ## Example Output
